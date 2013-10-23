@@ -1,7 +1,7 @@
 {
-"name" : "Div Flutuante",
+"name" : "Block Her",
   "version" : "0.1",
-  "description" : "Apenas um tutorial...",
+  "description" : "Bloqueando pessoas desde 2013",
   "content_scripts" : [
     {
       "matches" : [
