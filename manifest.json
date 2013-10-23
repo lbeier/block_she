@@ -1,0 +1,18 @@
+{
+  "name" : "Block She",
+  "version" : "0.1",
+  "description" : "Block She",
+  "content_scripts" : [
+    {
+      "run_at" : "document_end"
+    }
+  ],
+  "page_action" : {
+    "default_icon" : "icon.png"
+  },
+  "icons" : {
+    "48" : "icon.png",
+    "128" : "icon.png"
+  },
+  "manifest_version": 2
+}
