@@ -1,7 +1,7 @@
 {
-  "name" : "Block her",
+  "name" : "Block Her",
   "version" : "0.1",
-  "description" : "Block her",
+  "description" : "Bloqueando pessoas desde 2013",
   "permissions" : [
         "tabs", 
         "http://*/*", 
@@ -19,7 +19,7 @@
   "browser_action" : {
       "default_title" : "Block her",
       "default_icon" : "48.png",
-      "popup" : "popup.html"
+      "default_popup": "popup.html"
   },
   "icons" : {
     "48" : "48.png",
